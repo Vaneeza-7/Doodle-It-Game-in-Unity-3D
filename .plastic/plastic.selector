@@ -1,0 +1,4 @@
+repository "doodleItGame@vinzur@cloud"
+  path "/"
+    smartbranch "/main"            
+     
