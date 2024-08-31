@@ -12,7 +12,7 @@ Click the button below to download the latest version of the game on your Androi
 
 ## Gameplay Video Tutorial
 
-Curious about how to play? Watch our video tutorial to get a quick overview of the game:
+Curious about how to play? Watch our video tutorial on youtube to get a quick overview of the game:
 
 [![Watch the Video Tutorial](https://img.youtube.com/vi/ts7mc6o_b_M/0.jpg)](https://youtu.be/ts7mc6o_b_M?si=DK-2_80q35jZE4WP)
 
